@@ -15,7 +15,7 @@
     "express": "^4.17.1",
     "firmata": "^2.0.0",
     "helmet": "^3.18.0",
-    "johnny-five": "^1.1.0",
+    "johnny-five": "^1.5.0",
     "serialport": "^7.1.5"
   }
 }
